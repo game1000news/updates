@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://game1000news.github.io/updates/sitemap.xml
